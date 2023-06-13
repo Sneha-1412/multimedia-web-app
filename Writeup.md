@@ -15,6 +15,6 @@ The Show Details feature enhances the user's understanding of the selected file 
 ## Explanation of Code Functionality
 The provided code for the Multimedia Web App demonstrates the implementation of these features. The handleSearch function filters the file list based on the search query entered by the user. It utilizes the filter method to match the lowercase search query against the lowercase file names.
 
-The handleShowDetails function toggles the visibility of the file details section when the "Show Details" button is clicked. It updates the showDetails state, which determines whether the details section should be displayed or hidden. The code conditionally renders the file details section based on the showDetails state and the presence of a selected file.
+The handleShowDetails function toggles the visibility of the file details section when the "Show Details" button is clicked. It updates the showDetails state, which determines whether the details section should be displayed or hidden. The code conditionally renders the file details section based on the showDetails state and the presence of a selected file. we can also hide the details by clicking the hide details button.
 
 Overall, the code effectively incorporates the Search and Show Details features, enhancing the functionality and usability of the Multimedia Web App.
